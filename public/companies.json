@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"TechNova Solutions","location":"Hyderabad","industry":"Software","website":"https://www.technova.example"},
+  {"id":2,"name":"GreenLeaf Agro","location":"Pune","industry":"Agriculture","website":"https://www.greenleaf.example"},
+  {"id":3,"name":"FinEdge Capital","location":"Mumbai","industry":"Finance","website":"https://www.finedge.example"},
+  {"id":4,"name":"MediCore Health","location":"Delhi","industry":"Healthcare","website":"https://www.medicore.example"},
+  {"id":5,"name":"EduSphere","location":"Bangalore","industry":"Education","website":"https://www.edusphere.example"},
+  {"id":6,"name":"RetailHub","location":"Chennai","industry":"Retail","website":"https://www.retailhub.example"},
+  {"id":7,"name":"CloudMatrix","location":"Hyderabad","industry":"Cloud Services","website":"https://www.cloudmatrix.example"},
+  {"id":8,"name":"AutoDrive Motors","location":"Pune","industry":"Automobile","website":"https://www.autodrive.example"},
+  {"id":9,"name":"DataForge Analytics","location":"Bangalore","industry":"Analytics","website":"https://www.dataforge.example"},
+  {"id":10,"name":"UrbanBuild","location":"Delhi","industry":"Construction","website":"https://www.urbanbuild.example"},
+  {"id":11,"name":"FoodNest","location":"Mumbai","industry":"Food & Beverages","website":"https://www.foodnest.example"},
+  {"id":12,"name":"SecureShield","location":"Hyderabad","industry":"Cybersecurity","website":"https://www.secureshield.example"},
+  {"id":13,"name":"EcoWatt Energy","location":"Chennai","industry":"Energy","website":"https://www.ecowatt.example"},
+  {"id":14,"name":"TravelWave","location":"Bangalore","industry":"Travel","website":"https://www.travelwave.example"},
+  {"id":15,"name":"BrightMedia","location":"Mumbai","industry":"Media","website":"https://www.brightmedia.example"},
+  {"id":16,"name":"SmartLogix","location":"Delhi","industry":"Logistics","website":"https://www.smartlogix.example"},
+  {"id":17,"name":"BioGen Labs","location":"Pune","industry":"Biotech","website":"https://www.biogenlabs.example"},
+  {"id":18,"name":"HomeCraft","location":"Chennai","industry":"Home & Living","website":"https://www.homecraft.example"},
+  {"id":19,"name":"NovaEdu Tech","location":"Hyderabad","industry":"EdTech","website":"https://www.novaedu.example"},
+  {"id":20,"name":"PixelWorks Studio","location":"Bangalore","industry":"Design","website":"https://www.pixelworks.example"}
+]
